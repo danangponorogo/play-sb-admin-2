@@ -1,0 +1,4 @@
+[error] D:\playframework\projects\starter\app\views\404.scala.html:1:1: identifier expected but integer literal found.
+[error] <!DOCTYPE html>
+[error] ^
+[error] one error found

@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(D:\playframework\projects\starter\conf\application.conf,D:\playframework\projects\starter\target\scala-2.13\classes\application.conf)
+[debug] 	(D:\playframework\projects\starter\conf\logback.xml,D:\playframework\projects\starter\target\scala-2.13\classes\logback.xml)
+[debug] 	(D:\playframework\projects\starter\conf\routes,D:\playframework\projects\starter\target\scala-2.13\classes\routes)

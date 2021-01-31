@@ -1,0 +1,3 @@
+[error] [Error] D:\playframework\projects\starter\app\views\index.scala.html:343
+[error] }: Expected ')' but found 'EOF'
+[error] (Compile / twirlCompileTemplates) Twirl compilation failed
