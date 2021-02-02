@@ -1,4 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/D:/playframework/projects/starter/project/"), "starter-build")...
-[debug] Done updating ProjectRef(uri("file:/D:/playframework/projects/starter/project/"), "starter-build")
+[debug] Updating ProjectRef(uri("file:/D:/playframework/projects/play-sb-admin-2/project/"), "play-sb-admin-2-build")...
+[debug] Done updating ProjectRef(uri("file:/D:/playframework/projects/play-sb-admin-2/project/"), "play-sb-admin-2-build")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

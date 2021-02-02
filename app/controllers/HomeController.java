@@ -1,8 +1,10 @@
 package controllers;
 
+/*
 import java.util.HashMap;
 import javax.inject.Inject;
 import play.libs.Json;
+*/
 import play.mvc.*;
 import views.html.*;
 
@@ -11,14 +13,14 @@ import views.html.*;
  * to the application's home page.
  */
 public class HomeController extends Controller {
-
+/* 
   private final AssetsFinder assetsFinder;
 
   @Inject
   public HomeController(AssetsFinder assetsFinder) {
     this.assetsFinder = assetsFinder;
   }
-
+ */
   public Result index() {
     return ok(index.render());
   }
